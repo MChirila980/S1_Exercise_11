@@ -4,8 +4,8 @@
    Tutorial Case
 
    Countdown Clock
-   Author: 
-   Date:   
+   Author: Melinda Chirila
+   Date:  2/13/2019 
 
 */
 
